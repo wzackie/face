@@ -1,0 +1,81 @@
+a{
+    text-decoration:none;
+    color: darkgray;
+}
+.div{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    background-color: rgba(240, 238, 238, 0.692);
+    height: 80vh;
+}
+.left{
+    border:none solid gray;
+    width: 400px;
+    height: 360px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow:0 0 10px rgb(173, 173, 173);
+    margin-top: 150px;
+
+}
+.left input{
+    padding: 10px 10px 15px 140px;
+    border-radius: 5px;
+    border:1px solid rgb(223, 218, 218);
+    margin-top:10px;
+    text-align:right;
+    font-size: large;
+    color: dimgrey;
+}
+.left .ss{
+    padding: 15px 145px;
+    border-radius: 5px;
+    margin-top:10px;
+    text-align:right;
+    background-color: #0866ff;
+    color: #fff;
+    border: none;
+    font-size: large;
+}
+.left a{
+    color: #0866ff;
+}
+.cc{
+    font-size: large;
+    padding:15px;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #42b72a;
+    color: #fff;
+}
+.po{
+    margin-top: 100px;
+    font-size: large;
+}
+svg{
+    width: 300px;
+    height:100px;
+    margin-top:200px;
+}
+.right p{
+    font-size:x-large;
+    text-align: right;
+    margin-right: 100px;
+}
+footer{
+    text-align: right;
+    margin: 30px 130px;
+}
+footer a{
+    padding:5px;
+}
+.vv{
+    color: darkgray;
+    text-align: right;
+    margin-right: 130px;
+}
+body footer a:hover{
+    border-bottom: 1px solid rgb(201, 196, 196);
+}
